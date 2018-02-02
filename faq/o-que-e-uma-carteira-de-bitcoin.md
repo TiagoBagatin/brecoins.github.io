@@ -14,7 +14,7 @@ A principal vantagem desse tipo de carteira é a praticidade de poder transacion
 
 **App Wallet****.** O funcionamento do app wallet é similar ao da carteira on-line, porém voltado a dispositivos móveis tais como smartphones e tablets. Funcionam na forma de aplicativo onde o usuário pode tanto enviar como receber moedas digitais.
 
-Sua vantagem em relação as outras modalidades de carteira é a mobilidade pois podem ser realizadas em qualquer lugar. Uma desvantagem está relacionada ao fato das chaves privadas estarem armazenadas num dispositivo móvel, que pode ser perdido, roubado ou até mesmo invadido. Alguns aplicativos recorrem, ainda, ao armazenamento de chaves privadas em um servidor na internet, o que, de forma semelhante às web wallets, não dá a garantia de que as chaves privadas permaneçam sem acesso de terceiros.
+Sua vantagem em relação as outras modalidades de carteira é a mobilidade pois podem ser utilizadas em qualquer lugar. Uma desvantagem está relacionada ao fato das chaves privadas estarem armazenadas num dispositivo móvel, que pode ser perdido, roubado ou até mesmo invadido. Alguns aplicativos recorrem, ainda, ao armazenamento de chaves privadas em um servidor na internet, o que, de forma semelhante às web wallets, não dá a garantia de que as chaves privadas permaneçam sem acesso de terceiros.
 
 **Desktop Wallet****.** São carteiras para serem utilizadas no desktop que funcionam como um software. Existem várias opções com diferentes funcionalidades.
 
